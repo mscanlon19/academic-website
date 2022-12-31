@@ -1,0 +1,16 @@
+# Theme metadata
+name = "my_theme"
+
+[my_theme]
+  # Primary
+  primary = "hsl(339, 90%, 68%)"
+
+  # Menu
+  menu_primary = "#003594"
+  menu_text = "rgba(255,255,255,0.6)"
+  menu_text_active = "rgba(255,255,255,1)"
+  menu_title = "rgb(31, 53, 148)"
+
+  # Home sections
+  home_section_odd = "#003594"
+  home_section_even = "#003594"
